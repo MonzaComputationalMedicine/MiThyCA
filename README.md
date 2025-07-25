@@ -151,5 +151,4 @@ The script comes with many configurable options to suit your needs. Here’s a d
 ## 📬 Questions?
 
 If you need help or have questions, feel free to open an issue or contact the project maintainer.
-
-Happy analyzing! 🔬🧠
+`marco.nobile@unive.it` - `vincenzo.limperio@unimib.it`
